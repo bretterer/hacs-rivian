@@ -1,0 +1,1 @@
+# HACS - Rivian (unofficial)
