@@ -1,0 +1,14 @@
+{
+    "domain": "com.bretterer.hacs.rivian",
+    "name": "Rivian (Unofficial)",
+    "documentation": "https://github.com/bretterer/hacs-rivian",
+    "issue_tracker": "https://github.com/bretterer/hacs-rivian/issues",
+    "dependencies": [],
+    "codeowners": [
+      "@bretterer"
+    ],
+    "config_flow": true,
+    "requirements": [],
+    "iot_class": "cloud_polling",
+    "version": "0.0.0-dev"
+  }
