@@ -1,5 +1,5 @@
 {
-    "domain": "com.bretterer.hacs.rivian",
+    "domain": "hacs_rivian",
     "name": "Rivian (Unofficial)",
     "documentation": "https://github.com/bretterer/hacs-rivian",
     "issue_tracker": "https://github.com/bretterer/hacs-rivian/issues",
