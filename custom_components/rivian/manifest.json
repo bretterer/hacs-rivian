@@ -1,14 +1,15 @@
 {
-    "domain": "hacs_rivian",
-    "name": "Rivian (Unofficial)",
-    "documentation": "https://github.com/bretterer/hacs-rivian",
-    "issue_tracker": "https://github.com/bretterer/hacs-rivian/issues",
-    "dependencies": [],
-    "codeowners": [
-      "@bretterer"
-    ],
-    "config_flow": true,
-    "requirements": [],
-    "iot_class": "cloud_polling",
-    "version": "0.0.0-dev"
-  }
+  "domain": "rivian",
+  "name": "Rivian (Unofficial)",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/rivian",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@bretterer"
+  ],
+  "iot_class": "cloud_polling"
+}
